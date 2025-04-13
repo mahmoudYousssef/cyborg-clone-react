@@ -1,6 +1,6 @@
 import './Header.css'
 import logo from '../../assets/images/logo.png'
-import  NavItem , { NavItemDropdown } from '../NavItem/NavItem'
+import  NavItem , { NavItemDropdown } from '../../components/NavItem/NavItem'
 
 
 const Header = () => {

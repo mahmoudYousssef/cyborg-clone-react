@@ -1,4 +1,5 @@
-import{ Header, Footer , Hero, Container} from './components/index';
+import{Container} from './components/index';
+import {Header , Hero, MostPopular} from './sections/index';
 import './App.css';
 function App() {
   return (
@@ -6,6 +7,7 @@ function App() {
     <Header />
     <Container>
       <Hero />
+  <MostPopular/>
       
     </Container>
     {/* <Footer /> */}

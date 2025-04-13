@@ -22,3 +22,11 @@ body {
   color: var(--color-light);
   font-family: var(--font-primary);
 }
+ul{
+  list-style: none;
+  
+}
+a{
+  text-decoration: none;
+  
+}
